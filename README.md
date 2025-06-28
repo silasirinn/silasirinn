@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sıla Şirin
 
-I'm a ** Software Engineering student** passionate about mobile development. I'm actively improving myself in **Flutter**, **iOS**, and **Java** technologies.
+I'm a Software Engineering student passionate about mobile development. I'm actively improving myself in **Flutter**, **iOS**, and **Java** technologies.
 
 ---
 
