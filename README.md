@@ -201,13 +201,6 @@ Exploring transaction data to identify behavioral patterns and build intelligent
 
 ---
 
-<div align="center">
-
-## 📈 Contribution Activity
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=silasirinn&bg_color=0D1117&color=C084FC&line=A855F7&point=EC4899&area=true&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -226,17 +219,7 @@ Exploring transaction data to identify behavioral patterns and build intelligent
 
 ---
 
-<div align="center">
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/silasirinn/silasirinn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/silasirinn/silasirinn/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/silasirinn/silasirinn/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
 
 ---
 
