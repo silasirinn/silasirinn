@@ -199,6 +199,8 @@ Exploring transaction data to identify behavioral patterns and build intelligent
 
 ---
 
+---
+
 <div align="center">
 
 ## 📈 Contribution Activity
@@ -219,6 +221,8 @@ Exploring transaction data to identify behavioral patterns and build intelligent
 📱 AI + Mobile                  ██████████████████░░
 🏦 FinTech & Banking AI         ███████████████░░░░░
 ```
+
+---
 
 ---
 
