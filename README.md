@@ -189,15 +189,11 @@ Exploring transaction data to identify behavioral patterns and build intelligent
 
 ## 📊 GitHub Analytics
 
-<br>
+![Sıla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=silasirinn&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=silasirinn&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silasirinn&layout=compact&theme=tokyonight&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasirinn&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
-
-<br><br>
-
-<img width="65%" src="https://streak-stats.demolab.com/?user=silasirinn&theme=midnight-purple&hide_border=true&background=0D1117"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=silasirinn&theme=tokyonight&hide_border=true)
 
 </div>
 
