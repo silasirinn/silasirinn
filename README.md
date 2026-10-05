@@ -2,55 +2,234 @@
 
 # 👋 Hi, I'm Sıla Şirin
 
-### Software Engineering Student • AI & Machine Learning
+### 🧠 AI • 💻 Software Engineering • 🚀 Intelligent Systems
 
-🧠 Artificial Intelligence &nbsp; • &nbsp; 👁️ Computer Vision &nbsp; • &nbsp; 💬 NLP &nbsp; • &nbsp; 📱 Mobile Development
+**Software Engineering Student focused on Artificial Intelligence & Modern Technologies**
 
 <br>
 
-> **Turning data, research and ideas into intelligent systems.**
+`Artificial Intelligence` • `Machine Learning` • `Computer Vision` • `NLP` • `Mobile AI`
+
+<br>
+
+### 💜 Code • Research • Build • Repeat
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
-
-I'm a **Software Engineering student** focused on Artificial Intelligence and building intelligent, data-driven applications.
-
-My interests span **Machine Learning, Computer Vision, Natural Language Processing and AI-powered software development**.
-
-I enjoy taking an idea through the full process — from **data and experimentation** to backend systems and usable applications.
+## 🧠 About Me
 
 ```python
 class SilaSirin:
-    focus = "Artificial Intelligence"
 
-    interests = [
-        "Machine Learning",
-        "Computer Vision",
-        "Natural Language Processing",
-        "FinTech & Banking AI",
-        "LLMs & Intelligent Systems"
-    ]
+    def __init__(self):
+        self.role = "Software Engineering Student 🎓"
+        self.focus = "Artificial Intelligence 🤖"
 
-    mission = "Build AI systems with real-world impact 🚀"
+        self.interests = [
+            "Machine Learning 🧠",
+            "Computer Vision 👁️",
+            "Natural Language Processing 💬",
+            "FinTech & Banking AI 🏦",
+            "LLMs & Intelligent Systems ⚡"
+        ]
+
+    def mission(self):
+        return "Turning ideas into intelligent systems 🚀"
+
+
+me = SilaSirin()
 ```
 
 ---
 
-## 🧠 Areas of Interest
+## 🚀 What I'm Into
 
-| 🤖 AI & Machine Learning | 👁️ Computer Vision |
-| --- | --- |
-| Machine Learning | Human Pose Estimation |
-| Feature Engineering | Image Analysis |
-| Explainable AI (XAI) | MediaPipe |
-| Model Evaluation | Landmark Extraction |
-| Data-Driven Systems | Visual Feature Engineering |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| 💬 Natural Language Processing | ⚙️ Software Engineering |
-| --- | --- |
+### 🤖 Artificial Intelligence
+
+🧠 Machine Learning  
+⚡ Model Optimization  
+🔍 Explainable AI (XAI)  
+📊 Data-Driven Systems  
+🧬 Feature Engineering  
+🎯 Model Evaluation  
+
+</td>
+
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision
+
+📸 Image Analysis  
+🧍 Human Pose Estimation  
+🔹 MediaPipe  
+📐 Landmark Extraction  
+🧠 Visual Feature Engineering  
+📱 AI + Mobile Integration  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💬 Natural Language Processing
+
+🇹🇷 Turkish NLP  
+📝 Text Classification  
+🔤 Morphological Processing  
+📊 TF-IDF  
+🧠 Embeddings  
+🤖 LLM Applications  
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Software Engineering
+
+📱 Flutter  
+⚡ FastAPI  
+🔌 REST APIs  
+🗄️ PostgreSQL  
+🔥 Firebase  
+💚 Supabase  
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Universe
+
+### 💻 Languages
+
+`Python`　`Dart`　`Java`　`JavaScript`　`SQL`
+
+### 🤖 AI & Data
+
+`Machine Learning`　`NLP`　`Computer Vision`  
+`MediaPipe`　`OpenCV`　`Pandas`　`NumPy`
+
+### ⚙️ Development
+
+`Flutter`　`React`　`FastAPI`  
+`Firebase`　`Supabase`　`PostgreSQL`
+
+### 🧰 Tools
+
+`Git`　`GitHub`　`Postman`　`VS Code`　`Figma`
+
+</div>
+
+---
+
+<div align="center">
+
+# 🔬 Featured Projects
+
+### ✦ AI • RESEARCH • DATA • SOFTWARE ✦
+
+</div>
+
+### 🗣️ Turkish Hate Speech Detection
+
+> 🇹🇷 **NLP × Machine Learning × BERTurk × Zemberek**
+
+Turkish hate speech detection project comparing baseline and morphological analysis approaches using **Zemberek, TF-IDF and BERTurk**.
+
+**Stack:** `Python` `NLP` `TF-IDF` `BERTurk` `Zemberek`
+
+### [→ View Project](https://github.com/silasirinn/turkish-hate-speech-detection)
+
+---
+
+### 🧍 AI-Based Body Composition Estimation
+
+> 👁️ **Computer Vision × Machine Learning × Human Pose Analysis**
+
+Researching an AI-based approach for estimating body composition from a **single 2D full-body image** using pose landmarks and image-derived anthropometric features.
+
+**Stack:** `Python` `MediaPipe` `Computer Vision` `Machine Learning`
+
+---
+
+### 🍽️ AI-Powered Nutrition Decision System
+
+> 🤖 **Artificial Intelligence × Mobile × Personalized Nutrition**
+
+Building an intelligent system that analyzes food choices and helps users make **personalized, data-driven decisions before ordering**.
+
+**Stack:** `Flutter` `FastAPI` `AI` `LLM` `Mobile`
+
+---
+
+### 🏦 Banking Transaction Analytics
+
+> 📊 **Data × Machine Learning × FinTech**
+
+Exploring financial transaction data to discover behavioral patterns and build intelligent analytics and decision-support systems for banking applications.
+
+**Stack:** `Python` `Pandas` `Machine Learning` `Data Analytics` `FinTech`
+
+---
+
+<div align="center">
+
+## ⚡ Currently Exploring
+
+</div>
+
+```text
+🤖  Artificial Intelligence       ███████████████████░   95%
+🧠  Machine Learning              ██████████████████░░   90%
+👁️  Computer Vision              █████████████████░░░   85%
+💬  NLP                           ████████████████░░░░   80%
+📱  AI + Mobile                   ██████████████████░░   90%
+🏦  FinTech & Banking AI          ███████████████░░░░░   75%
+```
+
+---
+
+<div align="center">
+
+## 🌱 Current Mission
+
+🔬 **Researching** intelligent systems  
+🧠 **Learning** advanced AI & Machine Learning  
+👁️ **Exploring** Computer Vision  
+🏦 **Building** FinTech & Banking AI projects  
+📱 **Turning** AI ideas into real applications  
+
+<br>
+
+`Think` → `Research` → `Build` → `Test` → `Improve`
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 Let's Connect
+
+### [💻 GitHub](https://github.com/silasirinn)　•　[💼 LinkedIn](https://www.linkedin.com/in/s%C4%B1la-%C5%9Firin-8b8865323)
+
+<br>
+
+## 💜 Building intelligent systems for real-world impact.
+
+**`Research.` `Experiment.` `Build.` `Improve.`**
+
+</div>| --- | --- |
 | Turkish NLP | Flutter |
 | Text Classification | FastAPI |
 | Morphological Processing | REST APIs |
