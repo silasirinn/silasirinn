@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sila+Sirin;Artificial+Intelligence;Machine+Learning;Computer+Vision)
 <!-- HEADER -->
 <div align="center">
 
